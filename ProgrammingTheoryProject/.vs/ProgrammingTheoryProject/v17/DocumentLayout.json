@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\ProgrammingTheoryProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB20955-9579-FAB6-F2A2-201D6EDA69BA}|Assembly-CSharp.csproj|c:\\users\\emre\\desktop\\createwithcode\\programmingtheoryrepo\\programmingtheoryproject\\assets\\scripts\\ui\\spriteimagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB20955-9579-FAB6-F2A2-201D6EDA69BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\spriteimagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpriteImageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\ProgrammingTheoryProject\\Assets\\Scripts\\UI\\SpriteImageHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SpriteImageHandler.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\ProgrammingTheoryProject\\Assets\\Scripts\\UI\\SpriteImageHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\SpriteImageHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:47:50.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
