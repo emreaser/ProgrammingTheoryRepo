@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Threadripper1\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\",
+  "WorkspaceRootPath": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B31B2CB-A9F5-92ED-4B34-4162244569F8}|Assembly-CSharp.csproj|c:\\users\\threadripper1\\desktop\\createwithcode\\programmingtheoryrepo\\assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B31B2CB-A9F5-92ED-4B34-4162244569F8}|Assembly-CSharp.csproj|c:\\users\\emre\\desktop\\createwithcode\\programmingtheoryrepo\\assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B31B2CB-A9F5-92ED-4B34-4162244569F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PlayerControl.cs",
-              "DocumentMoniker": "C:\\Users\\Threadripper1\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\Assets\\Scripts\\PlayerControl.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\Assets\\Scripts\\PlayerControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControl.cs",
-              "ToolTip": "C:\\Users\\Threadripper1\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\Assets\\Scripts\\PlayerControl.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\Assets\\Scripts\\PlayerControl.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerControl.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwCEAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T12:39:22.945Z",
               "EditorCaption": ""
