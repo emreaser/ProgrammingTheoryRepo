@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3B31B2CB-A9F5-92ED-4B34-4162244569F8}|Assembly-CSharp.csproj|C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\assets\\scripts\\enemygroundbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B31B2CB-A9F5-92ED-4B34-4162244569F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemygroundbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B31B2CB-A9F5-92ED-4B34-4162244569F8}|Assembly-CSharp.csproj|c:\\users\\emre\\desktop\\createwithcode\\programmingtheoryrepo\\assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B31B2CB-A9F5-92ED-4B34-4162244569F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B31B2CB-A9F5-92ED-4B34-4162244569F8}|Assembly-CSharp.csproj|C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\assets\\scripts\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B31B2CB-A9F5-92ED-4B34-4162244569F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B31B2CB-A9F5-92ED-4B34-4162244569F8}|Assembly-CSharp.csproj|C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\assets\\scripts\\enemyflying.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B31B2CB-A9F5-92ED-4B34-4162244569F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyflying.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B31B2CB-A9F5-92ED-4B34-4162244569F8}|Assembly-CSharp.csproj|C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\assets\\scripts\\mainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B31B2CB-A9F5-92ED-4B34-4162244569F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B31B2CB-A9F5-92ED-4B34-4162244569F8}|Assembly-CSharp.csproj|C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B31B2CB-A9F5-92ED-4B34-4162244569F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B31B2CB-A9F5-92ED-4B34-4162244569F8}|Assembly-CSharp.csproj|C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\assets\\scripts\\enemygorundhopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B31B2CB-A9F5-92ED-4B34-4162244569F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemygorundhopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainManager.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\Assets\\Scripts\\MainManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainManager.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\Assets\\Scripts\\MainManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:45:00.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:31:58.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyGorundHopping.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\Assets\\Scripts\\EnemyGorundHopping.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyGorundHopping.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\Assets\\Scripts\\EnemyGorundHopping.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyGorundHopping.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:02:21.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EnemyGroundBase.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\Assets\\Scripts\\EnemyGroundBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyGroundBase.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\Assets\\Scripts\\EnemyGroundBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyGroundBase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:01:57.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyFlying.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\Assets\\Scripts\\EnemyFlying.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyFlying.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\Assets\\Scripts\\EnemyFlying.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyFlying.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wC4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:55:23.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyBase.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\Assets\\Scripts\\EnemyBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBase.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\Assets\\Scripts\\EnemyBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:30:33.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PlayerControl.cs",
               "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\Assets\\Scripts\\PlayerControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControl.cs",
-              "ToolTip": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\Assets\\Scripts\\PlayerControl.cs*",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerControl.cs*",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\CreateWithCode\\ProgrammingTheoryRepo\\Assets\\Scripts\\PlayerControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControl.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T12:39:22.945Z",
               "EditorCaption": ""
